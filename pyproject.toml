@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "CryPr"
+version = "0.0.1"
+authors = [
+  { name="Navneet Kaur Gujjar", email="gujjar.n@northeastern.edu" },
+]
+description = "Crypr is a cryptocurrency price forecasting package that uses Machine Learning algorithms to predict future price trends of cryptocurrencies. The package allows users to analyze and forecast price movements of cryptocurrencies such as Bitcoin, Ethereum etc."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]

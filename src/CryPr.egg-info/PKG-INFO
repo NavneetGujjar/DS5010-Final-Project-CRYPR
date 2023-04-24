@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: CryPr
+Version: 0.0.1
+Summary: Crypr is a cryptocurrency price forecasting package that uses Machine Learning algorithms to predict future price trends of cryptocurrencies. The package allows users to analyze and forecast price movements of cryptocurrencies such as Bitcoin, Ethereum etc.
+Author-email: Navneet Kaur Gujjar <gujjar.n@northeastern.edu>
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
